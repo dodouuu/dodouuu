@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... ![image](https://user-images.githubusercontent.com/43116599/164957838-6bcb724d-526e-4fff-9ab4-9b225e66d541.png)
+- 🔭 I’m currently working on ... ![image](https://raw.githubusercontent.com/dodouuu/pictures/main/723869.png)
 - 🌱 I’m currently learning ... ![image](https://user-images.githubusercontent.com/43116599/164957857-e4bd61fc-8ca2-4904-b392-c88db967df1b.png)
 
 <!--
